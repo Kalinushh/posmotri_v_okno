@@ -248,7 +248,8 @@ fieldset {
   border: 1px solid #fff;
   font-size: 18px;
   line-height: 21.6px;
-  font-family: 'Fira Sans Condensed', sans-serif;
+  font-family: 'Fira Sans Condensed';
+  font-weight: 700;
 }
 
 .button:hover {
